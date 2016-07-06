@@ -1,5 +1,8 @@
 //: Playground - noun: a place where people can play
 
+/* realizado por: Diana Catalina Zuluaga Correa
+fecha: 05/'7/2'16
+*/
 import UIKit
 
 var resultado=""
